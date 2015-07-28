@@ -9,7 +9,7 @@ Begin Form
     GridY =10
     Width =6994
     DatasheetFontHeight =11
-    ItemSuffix =1
+    ItemSuffix =3
     Right =25320
     Bottom =13185
     DatasheetGridlinesColor =14806254
@@ -30,6 +30,19 @@ Begin Form
     AlternateBackThemeColorIndex =1
     AlternateBackShade =95.0
     Begin
+        Begin Label
+            BackStyle =0
+            FontSize =11
+            FontName ="Calibri"
+            ThemeFontIndex =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =0
+            BorderTint =50.0
+            ForeThemeColorIndex =0
+            ForeTint =50.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
+        End
         Begin CommandButton
             Width =1701
             Height =283
@@ -58,6 +71,24 @@ Begin Form
             HoverForeTint =75.0
             PressedForeThemeColorIndex =0
             PressedForeTint =75.0
+        End
+        Begin TextBox
+            AddColon = NotDefault
+            FELineBreak = NotDefault
+            BorderLineStyle =0
+            Width =1701
+            LabelX =-1701
+            FontSize =11
+            FontName ="Calibri"
+            AsianLineBreak =1
+            BackThemeColorIndex =1
+            BorderThemeColorIndex =1
+            BorderShade =65.0
+            ThemeFontIndex =1
+            ForeThemeColorIndex =0
+            ForeTint =75.0
+            GridlineThemeColorIndex =1
+            GridlineShade =65.0
         End
         Begin Section
             Height =5952
@@ -147,6 +178,42 @@ Begin Form
                     WebImagePaddingTop =2
                     WebImagePaddingRight =1
                     WebImagePaddingBottom =1
+                End
+                Begin TextBox
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =1416
+                    Top =226
+                    Width =2891
+                    Height =855
+                    TabIndex =1
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Text1"
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1416
+                    LayoutCachedTop =226
+                    LayoutCachedWidth =4307
+                    LayoutCachedHeight =1081
+                    Begin
+                        Begin Label
+                            OverlapFlags =93
+                            Left =963
+                            Top =226
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label2"
+                            Caption ="Text1"
+                            GridlineColor =10921638
+                            LayoutCachedLeft =963
+                            LayoutCachedTop =226
+                            LayoutCachedWidth =1548
+                            LayoutCachedHeight =541
+                        End
+                    End
                 End
             End
         End
