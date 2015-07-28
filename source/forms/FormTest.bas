@@ -9,9 +9,9 @@ Begin Form
     GridY =10
     Width =6994
     DatasheetFontHeight =11
-    ItemSuffix =3
+    ItemSuffix =11
     Right =25320
-    Bottom =13185
+    Bottom =12600
     DatasheetGridlinesColor =14806254
     RecSrcDt = Begin
         0x913da454b99ce440
@@ -101,8 +101,8 @@ Begin Form
             Begin
                 Begin CommandButton
                     OverlapFlags =85
-                    Left =1303
-                    Top =3458
+                    Left =907
+                    Top =5159
                     Width =576
                     Height =576
                     ForeColor =4210752
@@ -164,10 +164,10 @@ Begin Form
                         0x0000000000000000
                     End
 
-                    LayoutCachedLeft =1303
-                    LayoutCachedTop =3458
-                    LayoutCachedWidth =1879
-                    LayoutCachedHeight =4034
+                    LayoutCachedLeft =907
+                    LayoutCachedTop =5159
+                    LayoutCachedWidth =1483
+                    LayoutCachedHeight =5735
                     BackColor =14136213
                     BorderColor =14136213
                     HoverColor =15060409
@@ -212,6 +212,150 @@ Begin Form
                             LayoutCachedTop =226
                             LayoutCachedWidth =1548
                             LayoutCachedHeight =541
+                        End
+                    End
+                End
+                Begin TextBox
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =1416
+                    Top =1201
+                    Width =2891
+                    Height =855
+                    TabIndex =2
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Text3"
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1416
+                    LayoutCachedTop =1201
+                    LayoutCachedWidth =4307
+                    LayoutCachedHeight =2056
+                    Begin
+                        Begin Label
+                            OverlapFlags =93
+                            Left =963
+                            Top =1201
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label4"
+                            Caption ="Text1"
+                            GridlineColor =10921638
+                            LayoutCachedLeft =963
+                            LayoutCachedTop =1201
+                            LayoutCachedWidth =1548
+                            LayoutCachedHeight =1516
+                        End
+                    End
+                End
+                Begin TextBox
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =1416
+                    Top =2176
+                    Width =2891
+                    Height =855
+                    TabIndex =3
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Text5"
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1416
+                    LayoutCachedTop =2176
+                    LayoutCachedWidth =4307
+                    LayoutCachedHeight =3031
+                    Begin
+                        Begin Label
+                            OverlapFlags =93
+                            Left =963
+                            Top =2176
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label6"
+                            Caption ="Text1"
+                            GridlineColor =10921638
+                            LayoutCachedLeft =963
+                            LayoutCachedTop =2176
+                            LayoutCachedWidth =1548
+                            LayoutCachedHeight =2491
+                        End
+                    End
+                End
+                Begin TextBox
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =1416
+                    Top =3151
+                    Width =2891
+                    Height =855
+                    TabIndex =4
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Text7"
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1416
+                    LayoutCachedTop =3151
+                    LayoutCachedWidth =4307
+                    LayoutCachedHeight =4006
+                    Begin
+                        Begin Label
+                            OverlapFlags =93
+                            Left =963
+                            Top =3151
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label8"
+                            Caption ="Text1"
+                            GridlineColor =10921638
+                            LayoutCachedLeft =963
+                            LayoutCachedTop =3151
+                            LayoutCachedWidth =1548
+                            LayoutCachedHeight =3466
+                        End
+                    End
+                End
+                Begin TextBox
+                    OverlapFlags =215
+                    IMESentenceMode =3
+                    Left =1416
+                    Top =4126
+                    Width =2891
+                    Height =855
+                    TabIndex =5
+                    BorderColor =10921638
+                    ForeColor =4210752
+                    Name ="Text9"
+                    GridlineColor =10921638
+
+                    LayoutCachedLeft =1416
+                    LayoutCachedTop =4126
+                    LayoutCachedWidth =4307
+                    LayoutCachedHeight =4981
+                    Begin
+                        Begin Label
+                            OverlapFlags =93
+                            Left =963
+                            Top =4126
+                            Width =585
+                            Height =315
+                            BorderColor =8355711
+                            ForeColor =8355711
+                            Name ="Label10"
+                            Caption ="Text1"
+                            GridlineColor =10921638
+                            LayoutCachedLeft =963
+                            LayoutCachedTop =4126
+                            LayoutCachedWidth =1548
+                            LayoutCachedHeight =4441
                         End
                     End
                 End
